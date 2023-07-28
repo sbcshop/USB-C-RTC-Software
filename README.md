@@ -1,5 +1,7 @@
 # USB-C-RTC
 
+**This repository includes the Software files**
+
 <img src ="https://github.com/sbcshop/USB-C-RTC-Software/blob/main/images/USB_C_RTC_BANNER.png"   />
 
 The USB-C-RTC is a highly advanced device featuring an integrated DS3231 circuit; MCP2221, a USB-to-UART/I2C serial converter, which enables USB connectivity, in the processes that include a USB, UART(Serial), GPIO, and I2C interfaces & a C type USB which enables the user for the reversible plugin.
