@@ -2,11 +2,11 @@
 
 <img src ="https://github.com/sbcshop/USB-C-RTC-Software/blob/main/images/USB_C_RTC_BANNER.png"   />
 
-The USB-C-RTC is a highly advanced device featuring an integrated DS3231 circuit; MCP2221, a USB-to-UART/I2C serial converter, which enables USB connectivity, in the processes that include a USB, UART(Serial), GPIO, and I2C interfaces & a C type USB which enables the user for reversible plugin.
+The USB-C-RTC is a highly advanced device featuring an integrated DS3231 circuit; MCP2221, a USB-to-UART/I2C serial converter, which enables USB connectivity, in the processes that include a USB, UART(Serial), GPIO, and I2C interfaces & a C type USB which enables the user for the reversible plugin.
 ### Features
 - DS3231; extremely accurate I2C real-time clock (RTC).
 - MCP2221; USB to I2C/UART converter.
-- Reversible Plug in.
+- Reversible Plugin.
 - Integrated temperature-compensated crystal oscillator (TCXO)
 - Incorporates a battery input of CR1220, 3v
 - 16-pin, 300-mil SO package
@@ -39,20 +39,20 @@ __1) MCP2221__
 
 ### Installation on Raspberry Pi
 
-* Install MCP2221 Library by running below command on terminal:
+* Install the MCP2221 Library by running the below command on the terminal:
 
 ``` 
 sudo pip3 install PyMCP2221A
 ```
               
-* Connect USB-C-RTC on USB Port of Raspberry Pi.
-* Now clone/download USB-C-RTC Github Repository by running below command:
+* Connect USB-C-RTC to the USB Port of Raspberry Pi.
+* Now clone/download USB-C-RTC Github Repository by running the below command:
 
 ```
 git clone https://github.com/sbcshop/USB-C-RTC-Software
 ```
 
-* Now, open downloaded folder from home/pi or by running below command:
+* Now, open the downloaded folder from home/pi or by running the below command:
 
 ``` 
 cd USB-C-RTC-Software/examples
@@ -66,28 +66,28 @@ sudo python3 test.py
 
 ## Installation on Windows
 
-* Install MCP2221 Library by running below command on terminal:
+* Install the MCP2221 Library by running the below command on the terminal:
 
 ``` 
 pip install PyMCP2221A
 ```
               
-* Connect USB-C-RTC on USB Port of Windows USB Port.
+* Connect USB-C-RTC to the USB Port of Windows USB Port.
 
-* Now clone/download USB-C-RTC-Software Github Repository by running below command:
+* Now clone/download USB-C-RTC-Software Github Repository by running the below command:
 
 ```
 git clone https://github.com/sbcshop/USB-C-RTC-Software
 ```
 
-* By running above command a folder (USB-C-RTC-Software) of this repository will be downloaded in your System.
+* By running the above command, this repository's folder (USB-C-RTC-Software) will be downloaded into your System.
 
-* Now open the downloaded folder and run test.py file by running below command:
+* Now open the downloaded folder and run the test.py file by running the below command:
 
-```python3 test.py ``` or directly run test.py in any python supported IDE (like Thonny).
+```python3 test.py ``` or directly run test.py in any python-supported IDE (like Thonny).
 
 ### Demo Examples
-You may implement various [example](https://github.com/sbcshop/USB-C-RTC-Software/tree/main/examples) codes from the exaple folder like :
+You may implement various [example](https://github.com/sbcshop/USB-C-RTC-Software/tree/main/examples) codes from the example folder like :
 Some are given Below:
 
 - **[Set time](https://github.com/sbcshop/USB-C-RTC-Software/blob/main/examples/Set_Time.py)**
