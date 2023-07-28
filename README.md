@@ -1,4 +1,4 @@
-# USB-C-RTC-Software
+# USB-C-RTC
 
 <img src ="https://github.com/sbcshop/USB-C-RTC-Software/blob/main/images/USB_C_RTC_BANNER.png"   />
 
